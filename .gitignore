@@ -1,0 +1,10 @@
+# Executables
+**/*.exe
+**/*.out
+
+# Logs
+**/*.log
+
+# Temporary and test directories
+/tmp
+/test
